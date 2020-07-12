@@ -1,0 +1,9 @@
+by.softeq.test_task
+by.softeq.test_task.controller
+by.softeq.test_task.dao
+by.softeq.test_task.dao.impl
+by.softeq.test_task.entity
+by.softeq.test_task.entity.logic
+by.softeq.test_task.resource_bundle
+by.softeq.test_task.service
+by.softeq.test_task.service.impl
